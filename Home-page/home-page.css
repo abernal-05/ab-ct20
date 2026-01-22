@@ -1,0 +1,25 @@
+.h2 {
+    font-style:#84C0C8;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace,
+}
+
+.p {
+    font:white;
+    font-family:'Courier New', Courier, monospace
+}
+
+main {
+    background:#84C0C8;
+}
+
+
+body {
+    border-style:dashed, #4C929B;
+    border-color: white;
+    margin-right: 50px;
+    margin-left: 50px;
+    background: #B2D2D7;
+    
+}
+
