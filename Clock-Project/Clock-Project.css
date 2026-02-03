@@ -1,0 +1,29 @@
+p {
+    color: white;
+    font-family: Courier-New, monospace;
+    font-size: 16px;
+    
+
+}
+
+body {
+    background: #B7E0EA;
+
+}
+
+section {
+    background: #BEBEE9;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+.Wave {
+    border: white;
+    background: #BEBEE9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
