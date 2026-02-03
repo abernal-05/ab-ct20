@@ -1,6 +1,6 @@
 let img;
 function preload(){
-  img = loadImage("https://raw.githubusercontent.com/abernal-05/ab-ct20/refs/heads/main/Home/kiki.png")
+  img = loadImage("https://raw.githubusercontent.com/abernal-05/ab-ct20/refs/heads/main/kiki.png")
   console.log("Kiki loaded")
 }
 

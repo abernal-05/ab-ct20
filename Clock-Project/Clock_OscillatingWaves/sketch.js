@@ -2,8 +2,6 @@
 //line for 0
 //fix hour assignment
 
-
-
 let waves;
 
 function setup() {
