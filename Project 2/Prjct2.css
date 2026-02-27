@@ -1,0 +1,19 @@
+p {
+    color: white;
+    font-family: Courier-New, monospace;
+    font-size: 16px;
+    
+
+}
+
+body {
+    background: #B7E0EA;
+
+}
+
+section {
+    background: #BEBEE9;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
