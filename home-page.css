@@ -1,12 +1,12 @@
-.h2 {
-    font-style:#84C0C8;
+h2 {
+    color:white;
+    font-family:'Courier New', Courier, monospace;
     font-weight: bold;
-    font-family:'Courier New', Courier, monospace,
 }
 
-.p {
-    font:white;
-    font-family:'Courier New', Courier, monospace
+p {
+    color:white;
+    font-family:'Courier New', Courier, monospace;
 }
 
 main {
